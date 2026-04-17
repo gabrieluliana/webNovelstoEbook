@@ -8,6 +8,8 @@ requests = "*"
 xml2epub = "*"
 beautifulsoup4 = "*"
 matplotlib = "*"
+ttkbootstrap = "*"
+pillow = "*"
 
 [dev-packages]
 
